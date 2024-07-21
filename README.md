@@ -1,5 +1,5 @@
 ## AIRAVAT PRO OMKAR BHAVSAR
-<img src="img/ss2.jpg" alt="AIRAVAT-PRO" style="width:20%">
+<img src="https://iili.io/dnZp5Ff.jpg" alt="AIRAVAT-PRO" style="width:20%">
 Apk error fix 🥰
 
 ---
@@ -16,7 +16,7 @@ Apk error fix 🥰
  [*] Don't forget to add firebase url in ```smali_classes3/lizord/demon/MainActivity.smali``` search for ```databaseURL``` and change it to your database url
   </div>
   <div class="column">
-    <img src="Img/5.jpg" alt="AIRAVAT-PRO" style="width:50%">
+    <img src="https://iili.io/dnZp7a4.jpg" alt="AIRAVAT-PRO" style="width:50%">
   </div>
 
  
@@ -36,8 +36,8 @@ Apk error fix 🥰
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
 </div>
   <div class="column">
-    <img src="img/ss1.jpg" alt="AIRAVAT-PRO" style="width:100%">
-   <img src="img/ss2.jpg" alt="AIRAVAT-PRO" style="width:100%">
+    <img src="https://iili.io/dnZp5Ff.jpg" alt="AIRAVAT-PRO" style="width:100%">
+   <img src="https://iili.io/dnZpA6G.jpg" alt="AIRAVAT-PRO" style="width:100%">
   </div>
   </div>
 
