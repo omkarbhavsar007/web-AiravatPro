@@ -1,0 +1,96 @@
+<pre>
+	
+->  py -m venv env
+->  env\Scripts\activate
+->  pip install django
+->  django-admin startproject projectname
+->  code .
+->  cd projectname
+->  django-admin startapp app_name
+->  py manage.py runserver
+
+->  py manage.py makemigration
+->  py manage.py migrate
+
+
+<!-- Default Admin Create -->
+   ->py manage.py createsuperuser
+
+
+
+
+Enviroment ->
+	Packages / Versions Of Python
+		-> Manage in Enviroment
+
+		-> To Create Enviroment ->
+			py -m venv env
+				-> py = python
+				-> -m = make
+				-> venv = virtual enviroment module
+				-> evn  = folder name 
+		-> After Create Enviroment We Have to Activate it.
+
+			env\Scripts\activate
+
+				-> in evn folder
+				-> in Scripts folder
+				-> activate file is execute in cmd 
+			-> Activate Env
+
+		-> Install Django In That Enviroment
+			->pip install django
+
+		->django => create project
+			django-admin startproject projectname
+
+		-> vs code  -> code .
+			-> evn => modules => django ->
+					-> to load syntax
+
+		-> cd projectname
+			-> Entry In Project Folder
+				-> Files in that directory
+
+		<!-- App   -->
+		-> django-admin startapp website
+			->  django-admin startapp app_name
+
+		-> manage.py
+			-> This File Help Us to run program
+				-> py manage.py runserver
+
+
+
+							-> configure database and more.
+								-> py manage.py makemigration
+								-> py manage.py migrate
+
+</pre>
+
+<!--
+	django-admin startproject hospitalProject 
+		-> hospitalProject
+			-> hospitalProject
+				-> settings.py
+					-> Set Template Folder Path
+>>						-> 'DIRS' : ['template']
+						-> template contains .html files
+
+					-> Set Static Folder Path
+>>						-> STATICFILES_DIRS = ['static/']
+						-> static contains .css , .js, .jpg ,
+						   and other non changable files
+
+					-> set Youe App Name In INSTALLED_APPS
+						-> appname.models
+							-> Setup In Project Database
+							-> Tables Of Database
+
+
+				-> urls.py
+					-> Configured Urls.py
+						-> path('path',function),
+
+
+ -->
